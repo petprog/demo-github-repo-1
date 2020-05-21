@@ -4,3 +4,5 @@ A demo to practice Git and Github more
 This line was modified during conflicts resolution
 
 New line was added locally
+
+Testing
